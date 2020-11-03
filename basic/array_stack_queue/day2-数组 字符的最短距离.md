@@ -1,9 +1,3 @@
----
-title: day2-数组 字符的最短距离
-date: 2020-11-02 18:59:24
-categories: 刷题笔记
-tags: Java
----
 
 **题目**
 

@@ -1,11 +1,3 @@
----
-title: day1-数组 嘉义
-date: 2020-11-01 18:57:23
-categories: 刷题笔记
-tags: Java
----
-
-
 **题目**
 
 [leetcode66](https://leetcode-cn.com/problems/plus-one/)
