@@ -19,7 +19,7 @@ tags:
 
 利用栈，一条路走到底全部入栈，没有路走则出栈重新找路，直到所有的顶点都被访问。
 
-<img src="/img/leetcode/深度优先.png">
+<img src="../imgs/basic/深度优先.png">
 
 ```
 void DFS(AMGraph G, int V){

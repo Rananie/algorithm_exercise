@@ -51,9 +51,5 @@ tags:
 
 也就是说right指针先右移，直到窗口满足条件，然后移动left指针，缩小范围。
     
-## 题目
-
-
-
 
 [参考文章](https://github.com/azl397985856/leetcode/blob/master/thinkings/slide-window.md)

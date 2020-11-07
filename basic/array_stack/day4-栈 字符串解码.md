@@ -1,9 +1,3 @@
----
-title: day4-栈 字符串解码
-date: 2020-11-04 20:08:11
-categories: 刷题笔记
-tags: JavaScript
----
 
 **题目**
 
