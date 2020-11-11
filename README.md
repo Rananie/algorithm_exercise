@@ -6,14 +6,14 @@
 
 **数组**
 
-- [x] [【day-01】66.加一](./basic/array_stack/day1-66.加一.md)
-- [x] [【day-02】821.字符的最短距离](./basic/array_stack/day2-821.字符的最短距离.md)
+- [x] [【day01】66.加一](./basic/array_stack/day1-66.加一.md)
+- [x] [【day02】821.字符的最短距离](./basic/array_stack/day2-821.字符的最短距离.md)
 - [x] [941.有效的山脉数组](./basic/array_stack/941.有效的山脉数组.md)
 
 
 **栈**
-- [x] [【day-03】1381.设计一个支持增量操作的栈](./basic/array_stack/day3-1381.设计一个支持增量操作的栈.md)
-- [x] [【day-04】394.字符串解码](./basic/array_stack/day4-394字符串解码.md)
+- [x] [【day03】1381.设计一个支持增量操作的栈](./basic/array_stack/day3-1381.设计一个支持增量操作的栈.md)
+- [x] [【day04】394.字符串解码](./basic/array_stack/day4-394字符串解码.md)
 
 
 **队列**
@@ -26,9 +26,11 @@
 
 **链表**
 
-- [x] [【day-07】24.两两交换链表中的节点](./basic/linked_list/day7-24.两两交换链表中的节点.md)
-- [x] [【day-08】61.旋转链表](./basic/linked_list/day8-61.旋转链表.md)
-- [x] [【day-09】109.有序链表转化二叉搜索树](./basic/linked_list/day8-61.旋转链表.md)
+- [x] [【day07】24.两两交换链表中的节点](./basic/linked_list/day7-24.两两交换链表中的节点.md)
+- [x] [【day08】61.旋转链表](./basic/linked_list/day8-61.旋转链表.md)
+- [x] [【day09】109.有序链表转化二叉搜索树](./basic/linked_list/day8-61.旋转链表.md)
+- [x] [【day10】160.相交链表](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/)
+- [x] [【day11】142.环形链表2](https://leetcode-cn.com/problems/linked-list-cycle-ii/)
 
 **树**
 
