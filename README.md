@@ -23,13 +23,14 @@
 - [x] [【day07】24.两两交换链表中的节点](./basic/linked_list/day7-24.两两交换链表中的节点.md)
 - [x] [【day08】61.旋转链表](./basic/linked_list/day8-61.旋转链表.md)
 - [x] [【day09】109.有序链表转化二叉搜索树](./basic/linked_list/day8-61.旋转链表.md)
-- [x] [【day10】160.相交链表](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/)
-- [x] [【day11】142.环形链表2](https://leetcode-cn.com/problems/linked-list-cycle-ii/)
+- [x] [【day10】160.相交链表](./basic/linked_list/day10-160.相交链表.md)
+- [x] [【day11】142.环形链表2](./basic/linked_list/day11-142.环形链表2.md)
+- [x] [328.奇偶链表](./basic/linked_list/328.奇偶链表.md)
 
 **树**
 
 - [x] [104.求二叉树的最大深度](./basic/tree/104-求二叉树的最大深度.md)
-- [x] [110.判断是否平衡二叉树](./basic/tree/110-平衡二叉树.md)
+- [x] [【day13】110.判断是否平衡二叉树](./basic/tree/day13-104.求二叉树的最大深度.md)
 
 **相关专题**
 
