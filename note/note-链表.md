@@ -1,10 +1,3 @@
----
-title: note-链表
-date: 2020-11-07 20:03:02
-categories: 刷题笔记
-tags:
----
-
 ## 链表的结构
 
 <img src="../imgs/basic/链表的结构.png">
