@@ -20,13 +20,20 @@
 
 ### 链表
 
-- [x] [【day07】24.两两交换链表中的节点](./basic/linked_list/day7-24.两两交换链表中的节点.md)
+- [x] [24.两两交换链表中的节点](./basic/linked_list/24.两两交换链表中的节点.md)
+- [x] [25.K个一组翻转链表](./basic/linked_list/25.k个一组翻转链表.md)
+- [x] 92.反转链表2
 - [x] [206.旋转链表](./basic/linked_list/206.旋转链表.md)
-- [x] [【day09】109.有序链表转化二叉搜索树](./basic/linked_list/day8-61.旋转链表.md)
-- [x] [【day10】160.相交链表](./basic/linked_list/day10-160.相交链表.md)
-- [x] [【day11】142.环形链表2](./basic/linked_list/day11-142.环形链表2.md)
+- [x] [109.有序链表转化二叉搜索树](./basic/linked_list/109.旋转链表.md)
+- [x] [160.相交链表](./basic/linked_list/160.相交链表.md)
+- [x] [142.环形链表2](./basic/linked_list/142.环形链表2.md)
 - [x] [203.移除链表元素](./basic/linked_list/203.移除链表元素.md)
 - [x] [328.奇偶链表](./basic/linked_list/328.奇偶链表.md)
+
+**快慢指针**
+- [x] 141.环形链表
+- [x] 142.环形链表2
+- [x] offer22.链表中倒数第k个节点
 
 ### 树
 
