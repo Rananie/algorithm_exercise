@@ -17,6 +17,8 @@
 - [x] [3.无重复字符的最长字串](./basic/array_stack/3.无重复字符的最长子串.md)
 - [x] [567.字符串的排列](./basic/array_stack/567.字符串的排列.md)
 - [x] [76.最小覆盖子串](./basic/array_stack/76.最小覆盖子串.md)
+- [x] [438.找到字符串中所有字母异位词](./basic/array_stack/438.找到字符串中所有字母异位词.md)
+
 
 **栈**
 - [x] [【day03】1381.设计一个支持增量操作的栈](./basic/array_stack/day3-1381.设计一个支持增量操作的栈.md)
